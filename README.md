@@ -1,5 +1,4 @@
-# Deep Learning For Computer Vision
-## UIUC CS 444 Assignments Overview
+## UIUC CS 444 Overview
 
 ## Assignment 1: Sorting Algorithms Analysis
 - **Objective**: Implement and analyze the performance of various sorting algorithms in Python.
