@@ -1,0 +1,12 @@
+*.jpg
+*.xml
+*.pyc
+*.png
+*.gz
+*.ini
+*.json
+/assignment3/assignment3_part2/data
+/assignment4/MNIST_data
+*.pdf
+*.pth
+*.zip
