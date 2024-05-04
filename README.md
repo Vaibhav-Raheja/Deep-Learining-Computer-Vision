@@ -1,21 +1,31 @@
-## UIUC CS 444 Overview
+# CS 444 Spring 2024 Summary
 
-## Assignment 1: Sorting Algorithms Analysis
-- **Objective**: Implement and analyze the performance of various sorting algorithms in Python.
-- **Key Learning**: Algorithm efficiency and performance measurement.
+## Assignment 1: Linear Classifiers
+- **Description**: Implement simple linear classifiers on the Rice dataset for binary classification and Fashion-MNIST for multi-class classification.
+- **Key Tasks**: Logistic regression, perceptron, SVM, and softmax classifiers.
+- **Technologies**: Python, Jupyter Notebook.
 
-## Assignment 2: Multi-threaded Server-Client Architecture
-- **Objective**: Build a multi-threaded server-client system using Python.
-- **Key Learning**: Network programming, TCP/UDP protocols, handling multiple clients.
 
-## Assignment 3: Advanced Data Structures
-- **Objective**: Implement advanced tree structures and perform operations like insertion, deletion, and balancing.
-- **Key Learning**: Practical applications of advanced data structures.
+## Assignment 2: Image Memorization with Neural Networks
+- **Description**: Write and train a four-layer neural network with SGD and Adam optimizers to memorize and reconstruct images.
+- **Key Tasks**: Implement forward and backward pass, experiment with feature mapping strategies.
+- **Technologies**: Python, Jupyter Notebook.
 
-## Assignment 4: Introduction to Machine Learning
-- **Objective**: Implement a linear regression model from scratch and apply it to a dataset.
-- **Key Learning**: Fundamentals of machine learning, including training and testing models.
 
-## Assignment 5: Deep Reinforcement Learning
-- **Objective**: Implement Deep Q-Network (DQN) and Double DQN for the Atari Breakout game.
-- **Key Learning**: Deep reinforcement learning techniques and performance optimization.
+## Assignment 3: Rotation Prediction and Object Detection
+- **Description**: Train a ResNet18 for rotation prediction and fine-tune for CIFAR10 classification. Implement a YOLO-like object detector on PASCAL VOC 2007 dataset.
+- **Key Tasks**: Rotation prediction, object detection, fine-tuning on CIFAR10.
+- **Technologies**: PyTorch, Jupyter Notebook.
+
+
+## Assignment 4: Cat Face Generation with GANs
+- **Description**: Train a GAN to generate cat face images, focusing on GANs and LSGANs.
+- **Key Tasks**: Implement GAN and LSGAN, data augmentation.
+- **Technologies**: PyTorch, Jupyter Notebook.
+
+
+## Assignment 5: Deep Reinforcement Learning for Atari Breakout
+- **Description**: Implement and train DQN and Double DQN agents to play Atari Breakout, achieving specific performance metrics.
+- **Key Tasks**: DQN, Double DQN, performance optimization.
+- **Technologies**: PyTorch, Google Colab, Jupyter Notebook.
+
